@@ -6,3 +6,8 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+6	git checkout master
+7	git checkout -b Antecedentes
+8	Creo el archivo Antecedentes.txt
+9	git add .
+	git commit -m "Paso 9"
