@@ -16,3 +16,6 @@
 12 					Sería por fast-forward ya que en la rama master no se ha hecho ningún commit
 13	git add .
 	git commit -m "Paso 13"
+14	git merge Antecedentes		Como se ha hecho un commit en master, la fusión es recursiva.
+15	git merge DatosPersonales	Como se ha hecho un commit en master, la fusión es recursiva. De hecho, es recursiva con
+					conflictos, en el archivo bitacora.txt.
