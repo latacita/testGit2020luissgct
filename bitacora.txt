@@ -19,3 +19,9 @@
 14	git merge Antecedentes		Como se ha hecho un commit en master, la fusión es recursiva.
 15	git merge DatosPersonales	Como se ha hecho un commit en master, la fusión es recursiva. De hecho, es recursiva con
 					conflictos, en el archivo bitacora.txt.
+16	Edito el archivo bitacora.txt
+17	git tag FusionTerminada
+18	git push origin master
+19 	git add .
+	git commit -m "Paso 19"
+	git push origin master
