@@ -11,3 +11,8 @@
 8	Creo el archivo Antecedentes.txt
 9	git add .
 	git commit -m "Paso 9"
+10	git checkout master
+11	git push origin DatosPersonales
+12 					Sería por fast-forward ya que en la rama master no se ha hecho ningún commit
+13	git add .
+	git commit -m "Paso 13"
