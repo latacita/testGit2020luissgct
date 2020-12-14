@@ -1,8 +1,14 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Sanz García, Luis                                %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+1	git clone https://github.com/latacita/testGit2020luissgct.git
+2 	git checkout -b DatosPersonales
+3	Edito el fichero PlanVacunacion.txt
+4	Edito el fichero bitacora.txt
+5	git add .
+	git commit -m "Paso 5"
